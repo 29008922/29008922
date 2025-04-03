@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (novice)</b>
   - [Praciting DS & Algorithim in Python](https://github.com/29008922/Algorithms-Practice)
-- <b>Backend web developer (Bash, shell basics, C, python, javacript programming languages, css and html, Django, flask frameork)</b>
+- <b>Backend web developer (Bash, shell basics, C, python, javacript programming languages, css and html, Django, flask framework)</b>
 - <b>command prompt</b>
   
 <h2>📺 Popular YouTube Videos</h2>
