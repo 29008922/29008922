@@ -1,4 +1,4 @@
-<h1>Hi, I'M Haron Murumba! <br/><a href="https://github.com/29008922">Programmer</a>, <a href="https://www.linkedin.com/in/haron murumba/">Cybersecurity Backend Software Engineer</a>, <a href="https://www.youtube.com/c/haron murumba">YouTuber</a></h1>
+<h1>Hi, I'M Haron Murumba! <br/><a href="https://github.com/29008922">Programmer</a>, <a href="https://www.linkedin.com/in/haron murumba/">Backend Software Engineer</a>, <a href="https://www.youtube.com/c/haron murumba">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
