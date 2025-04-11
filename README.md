@@ -13,7 +13,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [twitter]: 
-[youtube]: https://www.youtube.com/haron murumba
+[youtube]: [https://www.youtube.com/haron murumba](https://youtube.com/shorts/6w9RhkXNZxk)
 [instagram]: 
 [linkedin]: 
 
